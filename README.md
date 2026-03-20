@@ -59,7 +59,6 @@ The system follows a Microservices Architecture where each service is independen
 - Auth Service — Authentication & authorization
 - Issue Service — Issue creation, tracking, categorization
 - Statistics Service — Aggregates analytics and reports
-- Notification Service — Email/SMS notifications
 - User Service — Student & admin management
 
 ### Communication Patterns
@@ -90,7 +89,7 @@ The system follows a Microservices Architecture where each service is independen
 - Git & GitHub
 
 ### Database
-- MySQL
+- H2
 
 ---
 
